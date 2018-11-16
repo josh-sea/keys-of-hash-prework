@@ -4,6 +4,6 @@ class Hash
     # code goes here
 #    binding.pry
   self.map do |key, value|
-    if value == arguments.include
+    if value == arguments.include?
   end
 end
