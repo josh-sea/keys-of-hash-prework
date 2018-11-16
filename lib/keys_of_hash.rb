@@ -1,6 +1,6 @@
 class Hash
   def keys_of(*arguments)
     # code goes here
-    hash.keys_of(value) = []
+#    hash.keys_of(value) = []
   end
 end
